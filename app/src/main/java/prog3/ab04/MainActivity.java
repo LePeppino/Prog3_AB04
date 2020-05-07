@@ -1,3 +1,9 @@
+/*
+ * Titel: Programmierung 3, AB04
+ * Autor: Giuseppe Buccellato
+ * Semester: SoSe2020
+ */
+
 package prog3.ab04;
 
 import android.graphics.Bitmap;
